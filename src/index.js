@@ -46,6 +46,13 @@ const pizzaData = [
     photoName: "pizzas/prosciutto.jpg",
     soldOut: false,
   },
+  {
+    name: "Pizza Biriyani",
+    ingredients: "Tomato, White Rice, ham, aragula, and burrata cheese",
+    price: 110,
+    photoName: "pizzas/prosciutto.jpg",
+    soldOut: true,
+  },
 ];
 
 
